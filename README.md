@@ -8,3 +8,8 @@ Understanding how biological systems adapt to complex 3D environments is key to 
 The project combines fundamental mechanics, material testing, computational modeling, and data visualization. Students will measure elastic properties using a fatigue testing machine, implement Python-based simulations, and develop active tensegrity models to study motion dynamics. Through data analysis and visualization, they will interpret experimental and computational results effectively. 
 
 For those interested in further research, the project can be extended to investigate nonlinear wave propagation in active tensegrity structures, uncovering new insights into bio-inspired locomotion. 
+
+
+## objectives
+- 10 node non reciprocal string simulation []
+- complex 2d lattice with both reciprocal and non reciprocal interaction simulation []
