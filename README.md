@@ -13,3 +13,6 @@ For those interested in further research, the project can be extended to investi
 ## objectives
 - 10 node non reciprocal string simulation [X]
 - complex 2d lattice with both reciprocal and non reciprocal interaction simulation [X]
+- 2d lattice on a floor with simulated gravity [X]
+- rigid 3d box with non reciprocal diagonals [X]
+- rigid 3d box with non reciprocal diagonals on a plane with simulated gravity [X]
